@@ -1,7 +1,8 @@
 body {
 	background: url("../img/memory.jpg") no-repeat fixed top;
 	background-size: cover;
-
+	margin: 0;
+	padding: 0;
 }
 
 @font-face {
@@ -25,4 +26,9 @@ h1 {
 
 h2 {
 	font-size: 54px;
+}
+
+#tableauCartes {
+	background-color: white;
+	height: 250px;
 }
