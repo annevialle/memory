@@ -1,0 +1,28 @@
+body {
+	background: url("../img/memory.jpg") no-repeat fixed top;
+	background-size: cover;
+
+}
+
+@font-face {
+	font-family: "mickey-webfont";
+    src: url("../font/mickey-webfont.eot") ;
+    src: url("../font/mickey-webfont.svg") format("svg"),
+    	url("../font/mickey-webfont.woff") format("woff"),
+    	url("../font/mickey-webfont.tff") format("truetype");
+
+}
+
+h1, h2 {
+	font-family: "mickey-webfont";
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	font-size: 74px;
+}
+
+h2 {
+	font-size: 54px;
+}
